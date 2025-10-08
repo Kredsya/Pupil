@@ -128,7 +128,7 @@
 
     <!-- SETTINGS/STORAGE / MANAGE STORAGE -->
 
-    <string name="settings_manage_storage">Atur Penyimpnan</string>
+    <string name="settings_manage_storage">Kelola Penyimpanan</string>
     <string name="settings_storage_usage">Sedang menggunakan %s</string>
     <string name="settings_storage_usage_loading">Menghitung penggunaan penyimpanan…</string>
     <string name="settings_clear_cache">Bersihkan cache</string>
@@ -184,7 +184,7 @@
 
     <!-- MANAGE FAVORITES -->
 
-    <string name="settings_manage_favorites">Atur favorit</string>
+    <string name="settings_manage_favorites">Kelola favorit</string>
     <string name="settings_backup_title">Backup favorit</string>
     <string name="settings_backup_failed">Gagal Mengunggah</string>
     <string name="settings_backup_share">Bagikan Backup</string>
