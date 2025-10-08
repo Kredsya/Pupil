@@ -175,7 +175,7 @@
     <string name="settings_tag_translation_message">Berpartisipasi dalam terjemahan di GitHub</string>
     <string name="settings_rtl">Membalik halaman dari kanan-ke-kiri</string>
     <string name="settings_security_mode_title">Nyalakan mode kemananan</string>
-    <string name="settings_security_mode_summary">Buat tampilan tidak terlihat dari aplikasi baru-baru ini dan tangkapan layar.</string>
+    <string name="settings_security_mode_summary">Buat tampilan tidak bisa dilihat dari aplikasi baru-baru ini dan tangkapan layar.</string>
     <string name="settings_dark_mode_title">Tema gelap</string>
     <string name="settings_dark_mode_summary">Jaga matamu dari sinar terang layar.</string>
     <string name="settings_import_old_galleries">Impor galeri lama</string>
@@ -185,10 +185,10 @@
     <!-- MANAGE FAVORITES -->
 
     <string name="settings_manage_favorites">Kelola favorit</string>
-    <string name="settings_backup_title">Backup favorit</string>
+    <string name="settings_backup_title">Cadangkan favorit</string>
     <string name="settings_backup_failed">Gagal Mengunggah</string>
-    <string name="settings_backup_share">Bagikan Backup</string>
-    <string name="settings_backup_file_created">Berkas backup dibuat</string>
+    <string name="settings_backup_share">Bagikan Cadangan</string>
+    <string name="settings_backup_file_created">Berkas cadangan dibuat</string>
     <string name="settings_restore_title">Kembalikan favorit</string>
     <string name="settings_restore_failed">Gagal mengembalikan</string>
     <string name="settings_restore_success">%1$d entri dikembalikan</string>
@@ -212,7 +212,7 @@
 
     <!-- SETTINGS/DEFAULT QUERY DIALOG -->
 
-    <string name="default_query_dialog_title">Atur kueri pencarian default</string>
+    <string name="default_query_dialog_title">Kelola kueri pencarian default</string>
     <string name="default_query_dialog_language">Bahasa: </string>
     <string name="default_query_dialog_filter_BL">Jangan tampilkan BL</string>
     <string name="default_query_dialog_filter_guro">Jangan tampilkan Guro</string>
