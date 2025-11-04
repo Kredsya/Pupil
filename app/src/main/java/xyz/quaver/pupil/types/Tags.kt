@@ -28,14 +28,14 @@ data class Tag(val area: String?, val tag: String, val isNegative: Boolean = fal
                 tag.substring(1).split(Regex(":"), 2).let {
                     return when(it.size) {
                         2 -> Tag(it[0], it[1], true)
-                        else -> Tag(null, tag, true)
+                        else -> Tag(null, it[0], true)
                     }
                 }
             }
             tag.split(Regex(":"), 2).let {
                 return when(it.size) {
                     2 -> Tag(it[0], it[1])
-                    else -> Tag(null, tag)
+                    else -> Tag(null, it[0])
                 }
             }
         }
